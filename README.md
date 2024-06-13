@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tyan Trinh
-- 👀 I’m interested in ... backend systems and web3
-- 🌱 I’m currently learning ... Go and Solidity
+- 👀 I’m interested in ... security.
+- 🌱 I’m currently learning ... automation.
 - 📫 How to reach me ... LinkedIn
 
 <!---
